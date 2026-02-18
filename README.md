@@ -1,40 +1,52 @@
-# Deon Wagner
-Immigration Data Analyst | Predictive Modeling | Machine Learning
+# Deon Wagner  
+Immigration Data Analyst | Applied Data Science | Predictive Modeling
 
 ---
 
 ## About Me
 
-I am a data-driven analyst specializing in operational analytics, predictive modeling, and performance optimization within complex systems.
+I build end-to-end analytics solutions that turn messy data into operational decisions.
 
-With experience in public-sector immigration analytics and applied machine learning, I design solutions that transform raw data into strategic decision-support tools.
+My work focuses on predictive modeling, performance optimization, and translating complex analysis into clear, leadership-ready insights. I specialize in applied analytics — transforming raw data into measurable, explainable results that support real-world decision making.
 
-My work focuses on:
-- Predictive modeling
-- Behavioral analytics
-- Operational efficiency improvement
-- Data storytelling for leadership
-
----
-
-## Projects
-
-### 📊 Fitbit Performance Analytics
-Predictive modeling applied to wearable health data to analyze behavioral trends and estimate calorie expenditure.
-
-[View Project](projects/fitbit-analytics)
+Core strengths:
+- Turning vague business problems into measurable models
+- Data cleaning, feature engineering, and evaluation
+- Predictive modeling with explainability
+- Communicating technical findings to non-technical stakeholders
+- Responsible analytics (bias awareness, privacy, false positives/negatives)
 
 ---
 
-### 🏛 USCIS Immigration Analytics
-Exploratory analysis and predictive framework design for case processing workload and complexity scoring.
+## Work / Projects
 
-[View Project](projects/uscis-analytics)
+### 📊 Fitbit Performance Analytics  
+Applied regression modeling and time-series analysis to wearable activity data to quantify drivers of calorie expenditure and identify behavioral performance trends.
+
+**Tech used:** Python, Pandas, Matplotlib, Scikit-Learn  
+[View Project →](projects/fitbit-analytics)
+
+---
+
+### 🏛 USCIS Immigration Analytics  
+Operational analytics project focused on case processing data, workload patterns, and predictive framework design for case complexity scoring.
+
+**Tech used:** Python, SQL, Tableau, Databricks  
+[View Project →](projects/uscis-analytics)
+
+---
+
+## What I Want Employers to Know in 2 Minutes
+
+- I translate operational problems into measurable analytical frameworks.
+- I focus on applied impact — not just modeling, but usefulness.
+- I design analytics for decision-makers, not just data scientists.
+- I prioritize clarity, explainability, and ethical modeling practices.
 
 ---
 
 ## Contact
 
 Email: your.email@example.com  
-LinkedIn: (add your link here)  
+LinkedIn: https://linkedin.com/in/YOURPROFILE  
 GitHub: https://github.com/dwagner9118
