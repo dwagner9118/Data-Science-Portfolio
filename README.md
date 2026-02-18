@@ -1,52 +1,43 @@
-# Deon Wagner  
-Immigration Data Analyst | Applied Data Science | Predictive Modeling
+# Deon Wagner – Data Science Portfolio
+
+This repository contains the source files for my public-facing data science portfolio hosted via GitHub Pages.
+
+🌐 Live Portfolio:
+https://dwagner9118.github.io/Data-Science-Portfolio/
 
 ---
 
-## About Me
+## Portfolio Focus
 
-I build end-to-end analytics solutions that turn messy data into operational decisions.
+This portfolio highlights applied analytics work in:
 
-My work focuses on predictive modeling, performance optimization, and translating complex analysis into clear, leadership-ready insights. I specialize in applied analytics — transforming raw data into measurable, explainable results that support real-world decision making.
-
-Core strengths:
-- Turning vague business problems into measurable models
-- Data cleaning, feature engineering, and evaluation
-- Predictive modeling with explainability
-- Communicating technical findings to non-technical stakeholders
-- Responsible analytics (bias awareness, privacy, false positives/negatives)
+- Predictive Modeling
+- Operational Analytics
+- Data Cleaning & Feature Engineering
+- Performance Optimization
+- Data Visualization & Stakeholder Reporting
 
 ---
 
-## Work / Projects
+## Featured Projects
 
-### 📊 Fitbit Performance Analytics  
-Applied regression modeling and time-series analysis to wearable activity data to quantify drivers of calorie expenditure and identify behavioral performance trends.
+### 📊 Fitbit Performance Analytics
+Regression modeling and time-series analysis applied to wearable activity data to quantify performance trends.
 
-**Tech used:** Python, Pandas, Matplotlib, Scikit-Learn  
-[View Project →](projects/fitbit-analytics)
-
----
-
-### 🏛 USCIS Immigration Analytics  
-Operational analytics project focused on case processing data, workload patterns, and predictive framework design for case complexity scoring.
-
-**Tech used:** Python, SQL, Tableau, Databricks  
-[View Project →](projects/uscis-analytics)
+### 🏛 USCIS Immigration Analytics
+Operational analysis and predictive framework design focused on immigration case processing data.
 
 ---
 
-## What I Want Employers to Know in 2 Minutes
+## Tech Stack
 
-- I translate operational problems into measurable analytical frameworks.
-- I focus on applied impact — not just modeling, but usefulness.
-- I design analytics for decision-makers, not just data scientists.
-- I prioritize clarity, explainability, and ethical modeling practices.
+- Python
+- Pandas
+- Scikit-Learn
+- SQL
+- Tableau
+- Databricks
 
 ---
 
-## Contact
-
-Email: your.email@example.com  
-LinkedIn: https://linkedin.com/in/YOURPROFILE  
-GitHub: https://github.com/dwagner9118
+This repository is actively maintained and updated as new projects are completed.
