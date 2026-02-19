@@ -48,6 +48,5 @@ Operational analytics project focused on case processing data, workload patterns
 
 ## Contact
 
-Email: your.email@example.com  
-LinkedIn: https://linkedin.com/in/YOURPROFILE  
+Email: deonwagner57@gmail.com  
 GitHub: https://github.com/dwagner9118
